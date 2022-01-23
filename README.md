@@ -11,3 +11,7 @@ Built with
 -CSS custom properties
 -Flexbox
 -Mobile-first workflow
+
+## Live Site
+
+See live preview here: https://jonathancklee1.github.io/order-summary-card/
